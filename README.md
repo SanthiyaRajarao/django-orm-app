@@ -23,7 +23,7 @@ Include your code here
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+[SERVEROUTPUT](./23005263orm.png)
 
 
 ## RESULT
